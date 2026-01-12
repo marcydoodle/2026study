@@ -1,0 +1,2559 @@
+{
+    "days": [
+        {
+            "day": 1,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 1 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 1",
+            "japanese": "Hiragana KA-KO"
+        },
+        {
+            "day": 2,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 2 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 2",
+            "japanese": "Hiragana SA-SO"
+        },
+        {
+            "day": 3,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 3 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 3",
+            "japanese": "Hiragana TA-TO"
+        },
+        {
+            "day": 4,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 4 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 4",
+            "japanese": "Hiragana NA-NO"
+        },
+        {
+            "day": 5,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 5 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 5",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 6,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 6 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 6",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 7,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 7 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 7",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 8,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 8 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 8",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 9,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 9 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 9",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 10,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 10 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 10",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 11,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 11 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 11",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 12,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 12 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 12",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 13,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 13 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 13",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 14,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 14 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 14",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 15,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 15 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 15",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 16,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 16 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 16",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 17,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 17 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 17",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 18,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 18 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 18",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 19,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 19 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 19",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 20,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 20 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 20",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 21,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 21 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 21",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 22,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 22 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 22",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 23,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 23 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 23",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 24,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 24 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 24",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 25,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 25 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 25",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 26,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 26 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 26",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 27,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 27 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 27",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 28,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 28 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 28",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 29,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 29 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 29",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 30,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 30 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 30",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 31,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 31 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 31",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 32,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 32 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 32",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 33,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 33 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 33",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 34,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 34 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 34",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 35,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 35 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 35",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 36,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 36 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 36",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 37,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 37 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 37",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 38,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 38 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 38",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 39,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 39 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 39",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 40,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 40 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 40",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 41,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 41 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 41",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 42,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 42 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 42",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 43,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 43 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 43",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 44,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 44 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 44",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 45,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 45 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 45",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 46,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 46 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 46",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 47,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 47 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 47",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 48,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 48 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 48",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 49,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 49 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 49",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 50,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 50 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 50",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 51,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 51 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 51",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 52,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 52 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 52",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 53,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 53 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 53",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 54,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 54 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 54",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 55,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 55 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 55",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 56,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 56 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 56",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 57,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 57 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 57",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 58,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 58 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 58",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 59,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 59 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 59",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 60,
+            "phase": "Algebra Foundations",
+            "math": "Topic for Day 60 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 60",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 61,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 61 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 61",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 62,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 62 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 62",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 63,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 63 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 63",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 64,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 64 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 64",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 65,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 65 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 65",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 66,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 66 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 66",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 67,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 67 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 67",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 68,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 68 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 68",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 69,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 69 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 69",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 70,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 70 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 70",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 71,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 71 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 71",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 72,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 72 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 72",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 73,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 73 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 73",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 74,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 74 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 74",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 75,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 75 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 75",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 76,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 76 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 76",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 77,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 77 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 77",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 78,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 78 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 78",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 79,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 79 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 79",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 80,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 80 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 80",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 81,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 81 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 81",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 82,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 82 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 82",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 83,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 83 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 83",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 84,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 84 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 84",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 85,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 85 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 85",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 86,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 86 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 86",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 87,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 87 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 87",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 88,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 88 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 88",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 89,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 89 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 89",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 90,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 90 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 90",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 91,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 91 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 91",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 92,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 92 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 92",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 93,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 93 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 93",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 94,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 94 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 94",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 95,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 95 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 95",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 96,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 96 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 96",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 97,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 97 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 97",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 98,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 98 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 98",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 99,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 99 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 99",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 100,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 100 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 100",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 101,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 101 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 101",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 102,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 102 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 102",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 103,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 103 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 103",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 104,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 104 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 104",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 105,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 105 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 105",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 106,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 106 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 106",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 107,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 107 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 107",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 108,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 108 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 108",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 109,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 109 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 109",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 110,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 110 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 110",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 111,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 111 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 111",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 112,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 112 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 112",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 113,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 113 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 113",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 114,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 114 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 114",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 115,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 115 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 115",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 116,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 116 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 116",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 117,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 117 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 117",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 118,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 118 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 118",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 119,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 119 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 119",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 120,
+            "phase": "Advanced Algebra & Stats",
+            "math": "Topic for Day 120 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 120",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 121,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 121 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 121",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 122,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 122 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 122",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 123,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 123 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 123",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 124,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 124 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 124",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 125,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 125 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 125",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 126,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 126 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 126",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 127,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 127 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 127",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 128,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 128 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 128",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 129,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 129 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 129",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 130,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 130 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 130",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 131,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 131 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 131",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 132,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 132 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 132",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 133,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 133 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 133",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 134,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 134 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 134",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 135,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 135 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 135",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 136,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 136 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 136",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 137,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 137 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 137",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 138,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 138 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 138",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 139,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 139 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 139",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 140,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 140 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 140",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 141,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 141 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 141",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 142,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 142 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 142",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 143,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 143 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 143",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 144,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 144 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 144",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 145,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 145 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 145",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 146,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 146 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 146",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 147,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 147 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 147",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 148,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 148 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 148",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 149,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 149 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 149",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 150,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 150 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 150",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 151,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 151 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 151",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 152,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 152 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 152",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 153,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 153 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 153",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 154,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 154 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 154",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 155,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 155 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 155",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 156,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 156 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 156",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 157,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 157 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 157",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 158,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 158 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 158",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 159,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 159 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 159",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 160,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 160 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 160",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 161,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 161 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 161",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 162,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 162 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 162",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 163,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 163 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 163",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 164,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 164 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 164",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 165,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 165 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 165",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 166,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 166 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 166",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 167,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 167 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 167",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 168,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 168 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 168",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 169,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 169 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 169",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 170,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 170 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 170",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 171,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 171 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 171",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 172,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 172 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 172",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 173,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 173 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 173",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 174,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 174 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 174",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 175,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 175 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 175",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 176,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 176 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 176",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 177,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 177 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 177",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 178,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 178 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 178",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 179,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 179 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 179",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 180,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 180 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 180",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 181,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 181 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 181",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 182,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 182 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 182",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 183,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 183 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 183",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 184,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 184 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 184",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 185,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 185 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 185",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 186,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 186 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 186",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 187,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 187 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 187",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 188,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 188 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 188",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 189,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 189 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 189",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 190,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 190 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 190",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 191,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 191 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 191",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 192,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 192 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 192",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 193,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 193 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 193",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 194,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 194 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 194",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 195,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 195 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 195",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 196,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 196 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 196",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 197,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 197 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 197",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 198,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 198 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 198",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 199,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 199 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 199",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 200,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 200 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 200",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 201,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 201 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 201",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 202,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 202 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 202",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 203,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 203 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 203",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 204,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 204 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 204",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 205,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 205 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 205",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 206,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 206 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 206",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 207,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 207 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 207",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 208,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 208 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 208",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 209,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 209 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 209",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 210,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 210 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 210",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 211,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 211 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 211",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 212,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 212 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 212",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 213,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 213 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 213",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 214,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 214 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 214",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 215,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 215 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 215",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 216,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 216 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 216",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 217,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 217 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 217",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 218,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 218 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 218",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 219,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 219 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 219",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 220,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 220 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 220",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 221,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 221 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 221",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 222,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 222 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 222",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 223,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 223 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 223",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 224,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 224 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 224",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 225,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 225 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 225",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 226,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 226 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 226",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 227,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 227 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 227",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 228,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 228 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 228",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 229,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 229 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 229",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 230,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 230 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 230",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 231,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 231 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 231",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 232,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 232 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 232",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 233,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 233 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 233",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 234,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 234 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 234",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 235,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 235 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 235",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 236,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 236 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 236",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 237,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 237 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 237",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 238,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 238 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 238",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 239,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 239 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 239",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 240,
+            "phase": "Calculus (The ML Engine)",
+            "math": "Topic for Day 240 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 240",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 241,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 241 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 241",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 242,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 242 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 242",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 243,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 243 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 243",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 244,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 244 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 244",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 245,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 245 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 245",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 246,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 246 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 246",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 247,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 247 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 247",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 248,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 248 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 248",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 249,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 249 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 249",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 250,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 250 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 250",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 251,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 251 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 251",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 252,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 252 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 252",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 253,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 253 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 253",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 254,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 254 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 254",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 255,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 255 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 255",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 256,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 256 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 256",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 257,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 257 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 257",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 258,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 258 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 258",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 259,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 259 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 259",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 260,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 260 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 260",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 261,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 261 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 261",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 262,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 262 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 262",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 263,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 263 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 263",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 264,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 264 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 264",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 265,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 265 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 265",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 266,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 266 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 266",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 267,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 267 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 267",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 268,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 268 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 268",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 269,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 269 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 269",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 270,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 270 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 270",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 271,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 271 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 271",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 272,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 272 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 272",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 273,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 273 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 273",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 274,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 274 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 274",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 275,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 275 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 275",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 276,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 276 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 276",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 277,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 277 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 277",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 278,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 278 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 278",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 279,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 279 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 279",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 280,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 280 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 280",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 281,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 281 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 281",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 282,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 282 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 282",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 283,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 283 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 283",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 284,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 284 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 284",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 285,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 285 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 285",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 286,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 286 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 286",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 287,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 287 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 287",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 288,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 288 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 288",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 289,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 289 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 289",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 290,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 290 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 290",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 291,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 291 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 291",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 292,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 292 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 292",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 293,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 293 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 293",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 294,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 294 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 294",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 295,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 295 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 295",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 296,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 296 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 296",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 297,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 297 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 297",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 298,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 298 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 298",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 299,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 299 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 299",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 300,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 300 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 300",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 301,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 301 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 301",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 302,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 302 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 302",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 303,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 303 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 303",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 304,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 304 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 304",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 305,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 305 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 305",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 306,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 306 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 306",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 307,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 307 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 307",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 308,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 308 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 308",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 309,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 309 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 309",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 310,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 310 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 310",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 311,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 311 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 311",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 312,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 312 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 312",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 313,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 313 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 313",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 314,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 314 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 314",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 315,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 315 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 315",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 316,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 316 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 316",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 317,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 317 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 317",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 318,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 318 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 318",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 319,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 319 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 319",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 320,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 320 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 320",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 321,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 321 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 321",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 322,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 322 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 322",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 323,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 323 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 323",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 324,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 324 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 324",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 325,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 325 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 325",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 326,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 326 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 326",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 327,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 327 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 327",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 328,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 328 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 328",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 329,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 329 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 329",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 330,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 330 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 330",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 331,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 331 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 331",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 332,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 332 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 332",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 333,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 333 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 333",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 334,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 334 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 334",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 335,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 335 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 335",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 336,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 336 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 336",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 337,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 337 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 337",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 338,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 338 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 338",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 339,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 339 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 339",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 340,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 340 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 340",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 341,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 341 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 341",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 342,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 342 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 342",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 343,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 343 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 343",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 344,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 344 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 344",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 345,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 345 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 345",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 346,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 346 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 346",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 347,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 347 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 347",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 348,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 348 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 348",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 349,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 349 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 349",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 350,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 350 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 350",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 351,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 351 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 351",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 352,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 352 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 352",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 353,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 353 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 353",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 354,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 354 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 354",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 355,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 355 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 355",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 356,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 356 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 356",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 357,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 357 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 357",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 358,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 358 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 358",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 359,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 359 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 359",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 360,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 360 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 360",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 361,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 361 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 361",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 362,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 362 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 362",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 363,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 363 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 363",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 364,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 364 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 364",
+            "japanese": "Immersion/Review"
+        },
+        {
+            "day": 365,
+            "phase": "Linear Algebra & PhD Prep",
+            "math": "Topic for Day 365 (See Khan Academy Unit List)",
+            "security": "TryHackMe Lab Day 365",
+            "japanese": "Immersion/Review"
+        }
+    ]
+}

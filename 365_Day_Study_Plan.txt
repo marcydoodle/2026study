@@ -1,0 +1,1828 @@
+MARCELINE'S 2026 RESEARCH ROADMAP (FULL EXPORT)
+============================================================
+
+DAY 001 | Phase: Algebra Foundations
+  MATH: Topic for Day 1 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 1
+  JPN:  Hiragana KA-KO
+----------------------------------------
+DAY 002 | Phase: Algebra Foundations
+  MATH: Topic for Day 2 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 2
+  JPN:  Hiragana SA-SO
+----------------------------------------
+DAY 003 | Phase: Algebra Foundations
+  MATH: Topic for Day 3 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 3
+  JPN:  Hiragana TA-TO
+----------------------------------------
+DAY 004 | Phase: Algebra Foundations
+  MATH: Topic for Day 4 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 4
+  JPN:  Hiragana NA-NO
+----------------------------------------
+DAY 005 | Phase: Algebra Foundations
+  MATH: Topic for Day 5 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 5
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 006 | Phase: Algebra Foundations
+  MATH: Topic for Day 6 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 6
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 007 | Phase: Algebra Foundations
+  MATH: Topic for Day 7 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 7
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 008 | Phase: Algebra Foundations
+  MATH: Topic for Day 8 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 8
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 009 | Phase: Algebra Foundations
+  MATH: Topic for Day 9 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 9
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 010 | Phase: Algebra Foundations
+  MATH: Topic for Day 10 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 10
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 011 | Phase: Algebra Foundations
+  MATH: Topic for Day 11 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 11
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 012 | Phase: Algebra Foundations
+  MATH: Topic for Day 12 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 12
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 013 | Phase: Algebra Foundations
+  MATH: Topic for Day 13 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 13
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 014 | Phase: Algebra Foundations
+  MATH: Topic for Day 14 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 14
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 015 | Phase: Algebra Foundations
+  MATH: Topic for Day 15 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 15
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 016 | Phase: Algebra Foundations
+  MATH: Topic for Day 16 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 16
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 017 | Phase: Algebra Foundations
+  MATH: Topic for Day 17 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 17
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 018 | Phase: Algebra Foundations
+  MATH: Topic for Day 18 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 18
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 019 | Phase: Algebra Foundations
+  MATH: Topic for Day 19 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 19
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 020 | Phase: Algebra Foundations
+  MATH: Topic for Day 20 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 20
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 021 | Phase: Algebra Foundations
+  MATH: Topic for Day 21 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 21
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 022 | Phase: Algebra Foundations
+  MATH: Topic for Day 22 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 22
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 023 | Phase: Algebra Foundations
+  MATH: Topic for Day 23 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 23
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 024 | Phase: Algebra Foundations
+  MATH: Topic for Day 24 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 24
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 025 | Phase: Algebra Foundations
+  MATH: Topic for Day 25 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 25
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 026 | Phase: Algebra Foundations
+  MATH: Topic for Day 26 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 26
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 027 | Phase: Algebra Foundations
+  MATH: Topic for Day 27 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 27
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 028 | Phase: Algebra Foundations
+  MATH: Topic for Day 28 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 28
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 029 | Phase: Algebra Foundations
+  MATH: Topic for Day 29 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 29
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 030 | Phase: Algebra Foundations
+  MATH: Topic for Day 30 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 30
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 031 | Phase: Algebra Foundations
+  MATH: Topic for Day 31 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 31
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 032 | Phase: Algebra Foundations
+  MATH: Topic for Day 32 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 32
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 033 | Phase: Algebra Foundations
+  MATH: Topic for Day 33 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 33
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 034 | Phase: Algebra Foundations
+  MATH: Topic for Day 34 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 34
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 035 | Phase: Algebra Foundations
+  MATH: Topic for Day 35 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 35
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 036 | Phase: Algebra Foundations
+  MATH: Topic for Day 36 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 36
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 037 | Phase: Algebra Foundations
+  MATH: Topic for Day 37 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 37
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 038 | Phase: Algebra Foundations
+  MATH: Topic for Day 38 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 38
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 039 | Phase: Algebra Foundations
+  MATH: Topic for Day 39 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 39
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 040 | Phase: Algebra Foundations
+  MATH: Topic for Day 40 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 40
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 041 | Phase: Algebra Foundations
+  MATH: Topic for Day 41 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 41
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 042 | Phase: Algebra Foundations
+  MATH: Topic for Day 42 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 42
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 043 | Phase: Algebra Foundations
+  MATH: Topic for Day 43 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 43
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 044 | Phase: Algebra Foundations
+  MATH: Topic for Day 44 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 44
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 045 | Phase: Algebra Foundations
+  MATH: Topic for Day 45 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 45
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 046 | Phase: Algebra Foundations
+  MATH: Topic for Day 46 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 46
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 047 | Phase: Algebra Foundations
+  MATH: Topic for Day 47 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 47
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 048 | Phase: Algebra Foundations
+  MATH: Topic for Day 48 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 48
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 049 | Phase: Algebra Foundations
+  MATH: Topic for Day 49 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 49
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 050 | Phase: Algebra Foundations
+  MATH: Topic for Day 50 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 50
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 051 | Phase: Algebra Foundations
+  MATH: Topic for Day 51 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 51
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 052 | Phase: Algebra Foundations
+  MATH: Topic for Day 52 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 52
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 053 | Phase: Algebra Foundations
+  MATH: Topic for Day 53 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 53
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 054 | Phase: Algebra Foundations
+  MATH: Topic for Day 54 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 54
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 055 | Phase: Algebra Foundations
+  MATH: Topic for Day 55 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 55
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 056 | Phase: Algebra Foundations
+  MATH: Topic for Day 56 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 56
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 057 | Phase: Algebra Foundations
+  MATH: Topic for Day 57 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 57
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 058 | Phase: Algebra Foundations
+  MATH: Topic for Day 58 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 58
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 059 | Phase: Algebra Foundations
+  MATH: Topic for Day 59 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 59
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 060 | Phase: Algebra Foundations
+  MATH: Topic for Day 60 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 60
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 061 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 61 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 61
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 062 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 62 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 62
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 063 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 63 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 63
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 064 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 64 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 64
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 065 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 65 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 65
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 066 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 66 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 66
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 067 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 67 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 67
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 068 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 68 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 68
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 069 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 69 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 69
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 070 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 70 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 70
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 071 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 71 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 71
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 072 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 72 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 72
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 073 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 73 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 73
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 074 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 74 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 74
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 075 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 75 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 75
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 076 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 76 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 76
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 077 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 77 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 77
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 078 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 78 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 78
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 079 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 79 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 79
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 080 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 80 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 80
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 081 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 81 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 81
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 082 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 82 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 82
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 083 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 83 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 83
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 084 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 84 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 84
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 085 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 85 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 85
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 086 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 86 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 86
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 087 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 87 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 87
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 088 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 88 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 88
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 089 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 89 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 89
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 090 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 90 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 90
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 091 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 91 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 91
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 092 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 92 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 92
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 093 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 93 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 93
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 094 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 94 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 94
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 095 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 95 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 95
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 096 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 96 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 96
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 097 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 97 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 97
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 098 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 98 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 98
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 099 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 99 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 99
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 100 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 100 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 100
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 101 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 101 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 101
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 102 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 102 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 102
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 103 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 103 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 103
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 104 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 104 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 104
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 105 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 105 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 105
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 106 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 106 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 106
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 107 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 107 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 107
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 108 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 108 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 108
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 109 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 109 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 109
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 110 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 110 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 110
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 111 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 111 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 111
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 112 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 112 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 112
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 113 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 113 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 113
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 114 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 114 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 114
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 115 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 115 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 115
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 116 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 116 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 116
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 117 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 117 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 117
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 118 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 118 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 118
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 119 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 119 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 119
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 120 | Phase: Advanced Algebra & Stats
+  MATH: Topic for Day 120 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 120
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 121 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 121 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 121
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 122 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 122 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 122
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 123 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 123 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 123
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 124 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 124 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 124
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 125 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 125 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 125
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 126 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 126 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 126
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 127 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 127 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 127
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 128 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 128 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 128
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 129 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 129 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 129
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 130 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 130 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 130
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 131 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 131 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 131
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 132 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 132 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 132
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 133 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 133 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 133
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 134 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 134 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 134
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 135 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 135 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 135
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 136 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 136 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 136
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 137 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 137 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 137
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 138 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 138 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 138
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 139 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 139 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 139
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 140 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 140 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 140
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 141 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 141 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 141
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 142 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 142 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 142
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 143 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 143 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 143
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 144 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 144 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 144
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 145 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 145 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 145
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 146 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 146 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 146
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 147 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 147 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 147
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 148 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 148 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 148
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 149 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 149 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 149
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 150 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 150 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 150
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 151 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 151 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 151
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 152 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 152 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 152
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 153 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 153 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 153
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 154 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 154 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 154
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 155 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 155 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 155
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 156 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 156 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 156
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 157 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 157 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 157
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 158 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 158 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 158
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 159 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 159 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 159
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 160 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 160 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 160
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 161 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 161 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 161
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 162 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 162 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 162
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 163 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 163 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 163
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 164 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 164 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 164
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 165 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 165 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 165
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 166 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 166 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 166
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 167 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 167 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 167
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 168 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 168 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 168
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 169 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 169 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 169
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 170 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 170 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 170
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 171 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 171 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 171
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 172 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 172 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 172
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 173 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 173 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 173
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 174 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 174 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 174
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 175 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 175 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 175
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 176 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 176 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 176
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 177 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 177 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 177
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 178 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 178 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 178
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 179 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 179 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 179
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 180 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 180 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 180
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 181 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 181 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 181
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 182 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 182 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 182
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 183 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 183 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 183
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 184 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 184 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 184
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 185 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 185 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 185
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 186 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 186 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 186
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 187 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 187 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 187
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 188 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 188 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 188
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 189 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 189 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 189
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 190 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 190 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 190
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 191 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 191 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 191
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 192 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 192 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 192
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 193 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 193 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 193
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 194 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 194 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 194
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 195 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 195 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 195
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 196 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 196 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 196
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 197 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 197 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 197
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 198 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 198 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 198
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 199 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 199 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 199
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 200 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 200 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 200
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 201 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 201 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 201
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 202 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 202 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 202
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 203 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 203 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 203
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 204 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 204 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 204
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 205 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 205 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 205
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 206 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 206 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 206
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 207 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 207 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 207
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 208 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 208 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 208
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 209 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 209 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 209
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 210 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 210 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 210
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 211 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 211 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 211
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 212 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 212 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 212
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 213 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 213 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 213
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 214 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 214 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 214
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 215 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 215 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 215
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 216 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 216 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 216
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 217 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 217 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 217
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 218 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 218 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 218
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 219 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 219 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 219
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 220 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 220 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 220
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 221 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 221 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 221
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 222 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 222 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 222
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 223 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 223 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 223
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 224 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 224 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 224
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 225 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 225 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 225
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 226 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 226 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 226
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 227 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 227 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 227
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 228 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 228 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 228
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 229 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 229 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 229
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 230 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 230 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 230
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 231 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 231 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 231
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 232 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 232 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 232
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 233 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 233 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 233
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 234 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 234 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 234
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 235 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 235 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 235
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 236 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 236 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 236
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 237 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 237 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 237
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 238 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 238 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 238
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 239 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 239 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 239
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 240 | Phase: Calculus (The ML Engine)
+  MATH: Topic for Day 240 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 240
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 241 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 241 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 241
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 242 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 242 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 242
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 243 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 243 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 243
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 244 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 244 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 244
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 245 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 245 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 245
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 246 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 246 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 246
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 247 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 247 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 247
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 248 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 248 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 248
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 249 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 249 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 249
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 250 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 250 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 250
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 251 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 251 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 251
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 252 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 252 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 252
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 253 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 253 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 253
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 254 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 254 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 254
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 255 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 255 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 255
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 256 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 256 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 256
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 257 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 257 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 257
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 258 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 258 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 258
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 259 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 259 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 259
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 260 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 260 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 260
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 261 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 261 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 261
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 262 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 262 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 262
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 263 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 263 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 263
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 264 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 264 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 264
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 265 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 265 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 265
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 266 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 266 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 266
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 267 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 267 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 267
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 268 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 268 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 268
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 269 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 269 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 269
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 270 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 270 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 270
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 271 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 271 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 271
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 272 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 272 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 272
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 273 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 273 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 273
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 274 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 274 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 274
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 275 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 275 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 275
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 276 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 276 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 276
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 277 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 277 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 277
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 278 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 278 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 278
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 279 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 279 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 279
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 280 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 280 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 280
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 281 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 281 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 281
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 282 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 282 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 282
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 283 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 283 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 283
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 284 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 284 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 284
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 285 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 285 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 285
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 286 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 286 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 286
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 287 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 287 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 287
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 288 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 288 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 288
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 289 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 289 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 289
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 290 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 290 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 290
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 291 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 291 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 291
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 292 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 292 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 292
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 293 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 293 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 293
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 294 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 294 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 294
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 295 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 295 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 295
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 296 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 296 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 296
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 297 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 297 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 297
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 298 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 298 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 298
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 299 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 299 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 299
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 300 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 300 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 300
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 301 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 301 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 301
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 302 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 302 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 302
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 303 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 303 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 303
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 304 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 304 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 304
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 305 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 305 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 305
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 306 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 306 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 306
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 307 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 307 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 307
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 308 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 308 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 308
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 309 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 309 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 309
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 310 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 310 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 310
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 311 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 311 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 311
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 312 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 312 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 312
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 313 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 313 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 313
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 314 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 314 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 314
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 315 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 315 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 315
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 316 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 316 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 316
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 317 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 317 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 317
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 318 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 318 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 318
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 319 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 319 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 319
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 320 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 320 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 320
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 321 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 321 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 321
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 322 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 322 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 322
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 323 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 323 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 323
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 324 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 324 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 324
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 325 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 325 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 325
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 326 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 326 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 326
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 327 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 327 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 327
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 328 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 328 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 328
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 329 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 329 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 329
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 330 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 330 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 330
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 331 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 331 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 331
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 332 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 332 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 332
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 333 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 333 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 333
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 334 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 334 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 334
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 335 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 335 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 335
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 336 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 336 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 336
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 337 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 337 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 337
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 338 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 338 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 338
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 339 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 339 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 339
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 340 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 340 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 340
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 341 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 341 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 341
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 342 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 342 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 342
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 343 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 343 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 343
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 344 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 344 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 344
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 345 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 345 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 345
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 346 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 346 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 346
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 347 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 347 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 347
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 348 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 348 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 348
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 349 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 349 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 349
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 350 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 350 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 350
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 351 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 351 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 351
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 352 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 352 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 352
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 353 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 353 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 353
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 354 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 354 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 354
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 355 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 355 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 355
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 356 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 356 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 356
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 357 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 357 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 357
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 358 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 358 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 358
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 359 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 359 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 359
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 360 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 360 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 360
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 361 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 361 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 361
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 362 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 362 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 362
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 363 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 363 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 363
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 364 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 364 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 364
+  JPN:  Immersion/Review
+----------------------------------------
+DAY 365 | Phase: Linear Algebra & PhD Prep
+  MATH: Topic for Day 365 (See Khan Academy Unit List)
+  SEC:  TryHackMe Lab Day 365
+  JPN:  Immersion/Review
+----------------------------------------
