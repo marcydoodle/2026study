@@ -1,0 +1,1110 @@
+{
+    "weeks": [
+        {
+            "week": 1,
+            "math_topic": "Algebra 1 (Units 1-2)",
+            "math_daily": {
+                "Mon": "Algebra Foundations: Variables, expressions, order of operations",
+                "Tue": "Algebra Foundations: Combining like terms & equivalent expressions",
+                "Wed": "Solving Equations & Inequalities: Linear equations intro",
+                "Thu": "Solving Equations: Multi-step equations & variables on both sides",
+                "Fri": "Solving Equations: Equations with parentheses & number of solutions",
+                "Sat": "Unit Test Day: Take Foundations and Solving Equations tests"
+            },
+            "security": "Pre-Security: Intro to Cyber",
+            "python": "Sci. Comp: Intro & Elements",
+            "japanese_topics": [
+                "Hiragana A-O",
+                "Hiragana KA-KO",
+                "Hiragana SA-SO",
+                "Hiragana TA-TO",
+                "Hiragana NA-NO"
+            ]
+        },
+        {
+            "week": 2,
+            "math_topic": "Algebra 1 (Units 3-4)",
+            "math_daily": {
+                "Mon": "Linear Equations & Graphs: Slope intro & intercept form",
+                "Tue": "Linear Equations & Graphs: Graphing from slope-intercept & standard form",
+                "Wed": "Forms of Linear Equations: Point-slope & Standard form",
+                "Thu": "Forms of Linear Equations: Parallel & perpendicular lines",
+                "Fri": "Review: Catch up on graphing practice",
+                "Sat": "Unit Test Day: Linear Equations & Forms of Equations"
+            },
+            "security": "Pre-Security: How Web Works",
+            "python": "Sci. Comp: Variables/Expressions",
+            "japanese_topics": [
+                "Writing Practice",
+                "Anki Setup",
+                "Hiragana HA-HO",
+                "Hiragana MA-MO",
+                "Hiragana YA-YO"
+            ]
+        },
+        {
+            "week": 3,
+            "math_topic": "Algebra 1 (Units 5-6)",
+            "math_daily": {
+                "Mon": "Systems of Equations: Systems intro & graphing",
+                "Tue": "Systems of Equations: Substitution method",
+                "Wed": "Systems of Equations: Elimination method & number of solutions",
+                "Thu": "Inequalities (Systems & Graphs): Graphing inequalities",
+                "Fri": "Inequalities: Systems of inequalities word problems",
+                "Sat": "Unit Test Day: Systems & Inequalities"
+            },
+            "security": "Pre-Security: Linux Fund.",
+            "python": "Sci. Comp: Functions",
+            "japanese_topics": [
+                "Hiragana RA-RO",
+                "Hiragana WA-N",
+                "Dakuten (ga, za)",
+                "Hiragana Test",
+                "Katakana A-NO"
+            ]
+        },
+        {
+            "week": 4,
+            "math_topic": "Algebra 1 (Units 7-8)",
+            "math_daily": {
+                "Mon": "Functions: Intro to functions, domain, and range",
+                "Tue": "Functions: Function notation & piecewise functions",
+                "Wed": "Sequences: Arithmetic and geometric sequences",
+                "Thu": "Sequences: Modeling with sequences",
+                "Fri": "Review of Functions",
+                "Sat": "Unit Test Day: Functions & Sequences"
+            },
+            "security": "Pre-Security: Windows Fund.",
+            "python": "Sci. Comp: Loops & Iterations",
+            "japanese_topics": [
+                "Katakana HA-HO",
+                "Katakana MA-YO",
+                "Katakana RA-N",
+                "Long Vowels",
+                "Loanwords"
+            ]
+        },
+        {
+            "week": 5,
+            "math_topic": "Algebra 1 (Units 9-10)",
+            "math_daily": {
+                "Mon": "Exponents & Radicals: Exponent properties review",
+                "Tue": "Exponents & Radicals: Radicals & fractional exponents",
+                "Wed": "Quadratics: Multiplying & Factoring: Polynomials & distributive property",
+                "Thu": "Quadratics: Factoring quadratics (intro)",
+                "Fri": "Quadratics: Factoring special products",
+                "Sat": "Unit Test Day: Exponents & Factoring"
+            },
+            "security": "Sec Engineer: Intro to Sec Eng",
+            "python": "Sci. Comp: Strings/Ciphers",
+            "japanese_topics": [
+                "Core 2k Deck",
+                "Desu / Da",
+                "Negatives (Janai)",
+                "Past Tense (Datta)",
+                "Past Neg (Janakatta)"
+            ]
+        },
+        {
+            "week": 6,
+            "math_topic": "Algebra 1 (Units 11-12)",
+            "math_daily": {
+                "Mon": "Quadratic Functions & Equations: Vertex form & completing the square",
+                "Tue": "Quadratic Functions: The quadratic formula",
+                "Wed": "Irrational Numbers: Properties of rational/irrational",
+                "Thu": "Algebra 1 Course Challenge (First Attempt)",
+                "Fri": "Review weak areas from Course Challenge",
+                "Sat": "Mastery Day: Achieve 100% on Algebra 1 Course Challenge"
+            },
+            "security": "Sec Engineer: Security Principles",
+            "python": "Sci. Comp: Objects & Classes",
+            "japanese_topics": [
+                "Question Particle",
+                "Particles WA/GA",
+                "Grammar Audit",
+                "Particle MO",
+                "Particle NO"
+            ]
+        },
+        {
+            "week": 7,
+            "math_topic": "Algebra 2 (Units 1-2)",
+            "math_daily": {
+                "Mon": "Polynomial Arithmetic: Average rate of change of polynomials",
+                "Tue": "Complex Numbers: Intro to imaginary numbers & the complex plane",
+                "Wed": "Complex Numbers: Operations with complex numbers",
+                "Thu": "Polynomial Factorization: Factoring higher-degree polynomials",
+                "Fri": "Polynomial Factorization: Remainder theorem",
+                "Sat": "Unit Test Day: Complex Numbers & Factorization"
+            },
+            "security": "Sec Engineer: Intro to Crypto",
+            "python": "Sci. Comp: RegEx",
+            "japanese_topics": [
+                "Particle O",
+                "Particle NI/E",
+                "Particle DE",
+                "All Particles",
+                "Anki Review"
+            ]
+        },
+        {
+            "week": 8,
+            "math_topic": "Algebra 2 (Units 3-4)",
+            "math_daily": {
+                "Mon": "Polynomial Division: Long division & synthetic division",
+                "Tue": "Polynomial Graphs: End behavior & zeros",
+                "Wed": "Rational Exponents & Radicals: Solving radical equations",
+                "Thu": "Exponential Models: Intro to e and continuous growth",
+                "Fri": "Review Polynomial behavior",
+                "Sat": "Unit Test Day: Poly Graphs & Radicals"
+            },
+            "security": "Sec Engineer: Identity & Access",
+            "python": "Sci. Comp: Networking",
+            "japanese_topics": [
+                "I-Adjectives",
+                "I-Adj Conjugation",
+                "Na-Adjectives",
+                "Na-Adj Conjugation",
+                "Adj Vocabulary"
+            ]
+        },
+        {
+            "week": 9,
+            "math_topic": "Algebra 1 Course Challenge",
+            "math_daily": {
+                "Mon": "Cumulative Review: Linear Equations & Graphs",
+                "Tue": "Cumulative Review: Systems & Inequalities",
+                "Wed": "Cumulative Review: Functions & Sequences",
+                "Thu": "Cumulative Review: Quadratics & Exponents",
+                "Fri": "Final Prep: Review weak formulas",
+                "Sat": "Challenge Day: Algebra 1 Course Challenge 100% Mastery"
+            },
+            "security": "Sec Engineer: Governance & Reg",
+            "python": "Sci. Comp: APIs",
+            "japanese_topics": [
+                "Adj Sentences",
+                "Adj Review",
+                "Ru-Verbs",
+                "U-Verbs",
+                "Irregular Verbs"
+            ]
+        },
+        {
+            "week": 10,
+            "math_topic": "Algebra 2 (Units 1-2)",
+            "math_daily": {
+                "Mon": "Polynomial Arithmetic Recap",
+                "Tue": "Complex Numbers: Operations in the complex plane",
+                "Wed": "Polynomial Factorization: Strategies",
+                "Thu": "Polynomial Factorization: Using the Remainder Theorem",
+                "Fri": "Review of Unit 1 & 2",
+                "Sat": "Unit Test Day: Algebra 2 Units 1-2"
+            },
+            "security": "Sec Engineer: Threat Modelling",
+            "python": "Sci. Comp: SQLite Intro",
+            "japanese_topics": [
+                "Masu Form",
+                "Dictionary Form",
+                "Polite vs Plain",
+                "Verb Recognition",
+                "Verb Neg (Nai)"
+            ]
+        },
+        {
+            "week": 11,
+            "math_topic": "Algebra 2 (Units 3-4)",
+            "math_daily": {
+                "Mon": "Polynomial Division: Synthetic vs Long",
+                "Tue": "Polynomial Graphs: Intercepts and Zeros",
+                "Wed": "Rational Exponents: Radical Equation Solving",
+                "Thu": "Exponential Models: Continuous Growth Applications",
+                "Fri": "Review of Units 3 & 4",
+                "Sat": "Unit Test Day: Algebra 2 Units 3-4"
+            },
+            "security": "Sec Engineer: Risk Management",
+            "python": "Sci. Comp: DB Design",
+            "japanese_topics": [
+                "Verb Past (Ta)",
+                "Past Neg (Nakatta)",
+                "SOV Structure",
+                "Counting (1-10)",
+                "High Numbers"
+            ]
+        },
+        {
+            "week": 12,
+            "math_topic": "Algebra 2 (Units 5-6)",
+            "math_daily": {
+                "Mon": "Logarithms Intro: Relationship between logs and exponents",
+                "Tue": "Logarithm Properties: Product, quotient, and power rules",
+                "Wed": "Change of Base Rule: Solving logs on a calculator",
+                "Thu": "Solving Exponential Equations with Logs",
+                "Fri": "Logarithmic Graphs",
+                "Sat": "Mastery Day: Achieve 100% on Logarithms unit"
+            },
+            "security": "Sec Engineer: Vulnerability Mgmt",
+            "python": "Sci. Comp: Relational DBs",
+            "japanese_topics": [
+                "Monthly Review",
+                "Kanji 1-10",
+                "Kanji Days",
+                "Kanji Body",
+                "Adverbs"
+            ]
+        },
+        {
+            "week": 13,
+            "math_topic": "Algebra 2 (Units 7-8) / CS Theory",
+            "math_daily": {
+                "Mon": "Binary Numbers: Converting Decimal to Binary",
+                "Tue": "Bitwise XOR: Logic gates and reversible encryption",
+                "Wed": "Modular Arithmetic: Basics and 'Clock Math'",
+                "Thu": "Modular Exponentiation: Square-and-Multiply for RSA",
+                "Fri": "Information Theory: Entropy & data encoding",
+                "Sat": "Mastery Day: Algebra 2 Trig & CS Theory challenges"
+            },
+            "security": "Sec Engineer: Network Arch.",
+            "python": "Sci. Comp: Final Projects",
+            "japanese_topics": [
+                "Locations",
+                "Interrogatives",
+                "Stroke Order",
+                "Give/Receive",
+                "Desiring (~Tai)"
+            ]
+        },
+        {
+            "week": 14,
+            "math_topic": "Algebra 2 (Units 9-10)",
+            "math_daily": {
+                "Mon": "Modeling: Real-world functions",
+                "Tue": "Rational Functions: Asymptotes and end behavior",
+                "Wed": "Rational Expressions: Multiplying/dividing",
+                "Thu": "Rational Expressions: Adding/subtracting",
+                "Fri": "Review Rational Functions",
+                "Sat": "Unit Test Day: Modeling & Rational Functions"
+            },
+            "security": "Sec Engineer: Linux Hardening",
+            "python": "Data Analysis: NumPy Intro",
+            "japanese_topics": [
+                "Tari Tari",
+                "Aru/Iru (Exist)",
+                "Counters (~nin)",
+                "Short Stories",
+                "Desmos Practice"
+            ]
+        },
+        {
+            "week": 15,
+            "math_topic": "Algebra 2 (Units 11-12)",
+            "math_daily": {
+                "Mon": "Conic Sections: Circles and Ellipses",
+                "Tue": "Conic Sections: Hyperbolas and Parabolas",
+                "Wed": "Matrices: Basic matrix operations",
+                "Thu": "Algebra 2 Course Challenge (Attempt 1)",
+                "Fri": "Review weak units",
+                "Sat": "Mastery Day: Complete Algebra 2 Course Challenge"
+            },
+            "security": "Sec Engineer: Windows Hardening",
+            "python": "Data Analysis: Pandas Intro",
+            "japanese_topics": [
+                "Te-form (Ru-Verbs)",
+                "Te-form (U-Verbs)",
+                "Te-form (Irregular)",
+                "Te-form Connect",
+                "Te-form Requests"
+            ]
+        },
+        {
+            "week": 16,
+            "math_topic": "Algebra 2 Course Challenge",
+            "math_daily": {
+                "Mon": "Final Review: Logs and Exponents",
+                "Tue": "Final Review: Polynomial Graphs",
+                "Wed": "Final Review: Trig Functions",
+                "Thu": "Final Review: Rational Expressions",
+                "Fri": "Final Prep: Course Challenge Drill",
+                "Sat": "Mastery Day: Algebra 2 Course Challenge 100%"
+            },
+            "security": "Sec Engineer: Active Directory",
+            "python": "Data Analysis: Cleaning Data",
+            "japanese_topics": [
+                "Te-form States",
+                "Te-form Drill",
+                "~Mo ii (Permission)",
+                "Prohibition (Dame)",
+                "~Te kara (After)"
+            ]
+        },
+        {
+            "week": 17,
+            "math_topic": "Stats & Prob (Unit 1: Analyzing Categorical Data)",
+            "math_daily": {
+                "Mon": "Categorical Variables: Analyzing frequencies",
+                "Tue": "Categorical Data: Two-way tables",
+                "Wed": "Data Distributions: Graphs",
+                "Thu": "Comparing distributions",
+                "Fri": "Review Categorical analysis",
+                "Sat": "Unit Test Day: Unit 1 Stats"
+            },
+            "security": "Sec Engineer: Net Device Hardening",
+            "python": "Data Analysis: Visualizing Data",
+            "japanese_topics": [
+                "N5 Grammar Rev",
+                "N5 Vocab Test",
+                "N5 Listening",
+                "Phase 3 Exam",
+                "Kanji (Nature)"
+            ]
+        },
+        {
+            "week": 18,
+            "math_topic": "Stats & Prob (Unit 2: Displaying/Comparing Data)",
+            "math_daily": {
+                "Mon": "Quantitative Data: Displaying with dot plots/histograms",
+                "Tue": "Quantitative Data: Stem-and-leaf plots",
+                "Wed": "Comparing Quantitative Distributions",
+                "Thu": "Cumulative Relative Frequency",
+                "Fri": "Review Displaying Data",
+                "Sat": "Unit Test Day: Unit 2 Stats"
+            },
+            "security": "Sec Engineer: Network Protocols",
+            "python": "Data Analysis: Series & DataFrames",
+            "japanese_topics": [
+                "Kanji (Directions)",
+                "Kanji (Time)",
+                "Potential Form (Ru)",
+                "Potential Form (U)",
+                "\"I can...\""
+            ]
+        },
+        {
+            "week": 19,
+            "math_topic": "Stats & Prob (Unit 3: Summarizing Quant. Data)",
+            "math_daily": {
+                "Mon": "Summarizing Data: Mean and Median",
+                "Tue": "Summarizing Data: Range and Interquartile Range (IQR)",
+                "Wed": "Summarizing Data: Standard Deviation",
+                "Thu": "Summarizing Data: Box plots",
+                "Fri": "Review Summarizing Data",
+                "Sat": "Unit Test Day: Unit 3 Stats"
+            },
+            "security": "Sec Engineer: Virtualization/Containers",
+            "python": "Data Analysis: Reading CSV/JSON",
+            "japanese_topics": [
+                "Potential Drills",
+                "Nouns (Koto/No)",
+                "~N desu (Explain)",
+                "~To omou (Think)",
+                "~To iu (Quote)"
+            ]
+        },
+        {
+            "week": 20,
+            "math_topic": "Stats & Prob (Unit 4: Modeling Data Dist.)",
+            "math_daily": {
+                "Mon": "Percentiles and Z-scores",
+                "Tue": "Density Curves intro",
+                "Wed": "Normal Distributions intro",
+                "Thu": "Normal Distribution: Area calculations",
+                "Fri": "Review Data Distribution modeling",
+                "Sat": "Unit Test Day: Unit 4 Stats"
+            },
+            "security": "Sec Engineer: Intro to Cloud Sec",
+            "python": "Data Analysis: Final Projects",
+            "japanese_topics": [
+                "Relative Clauses",
+                "Complex Sentences",
+                "Sentence Mod",
+                "Comparison (Yori)",
+                "Superlatives"
+            ]
+        },
+        {
+            "week": 21,
+            "math_topic": "Stats & Prob (Unit 5: Exploring Bivariate Data)",
+            "math_daily": {
+                "Mon": "Scatterplots: Correlation ($r$)",
+                "Tue": "Least-Squares Regression",
+                "Wed": "Residuals and Residual Plots",
+                "Thu": "Transforming non-linear data",
+                "Fri": "Review Bivariate data",
+                "Sat": "Unit Test Day: Unit 5 Stats"
+            },
+            "security": "Sec Engineer: Auditing & Monitoring",
+            "python": "ML with Python: Intro to ML",
+            "japanese_topics": [
+                "~Tara (If/When)",
+                "~Ba (Conditional)",
+                "Volitional Form",
+                "Trans/Intransitive",
+                "Trig Graphs"
+            ]
+        },
+        {
+            "week": 22,
+            "math_topic": "Stats & Prob (Unit 6: Study Design)",
+            "math_daily": {
+                "Mon": "Sampling: Simple Random Samples (SRS)",
+                "Tue": "Sampling: Other methods and Bias",
+                "Wed": "Experiments: Design and Blinding",
+                "Thu": "Scope of Inference",
+                "Fri": "Review Study Design",
+                "Sat": "Unit Test Day: Unit 6 Stats"
+            },
+            "security": "Sec Engineer: OWASP API Top 10",
+            "python": "ML with Python: TensorFlow Intro",
+            "japanese_topics": [
+                "Particle SHI",
+                "NAGARA (While)",
+                "NODE/KARA",
+                "~Kana (Wonder)",
+                "Passive Voice"
+            ]
+        },
+        {
+            "week": 23,
+            "math_topic": "Stats & Prob (Unit 7: Probability)",
+            "math_daily": {
+                "Mon": "Probability: Basics and Rules",
+                "Tue": "Addition Rule: Mutually exclusive events",
+                "Wed": "Multiplication Rule: Independent events",
+                "Thu": "Conditional Probability",
+                "Fri": "Bayes' Theorem Application",
+                "Sat": "Unit Test Day: Unit 7 Probability"
+            },
+            "security": "Sec Engineer: SSDLC",
+            "python": "ML with Python: Core Algorithms",
+            "japanese_topics": [
+                "Causative Voice",
+                "Phase 4 Exam",
+                "Keigo Intro",
+                "Kenjougo",
+                "Business JP"
+            ]
+        },
+        {
+            "week": 24,
+            "math_topic": "Stats & Prob (Unit 8: Counting & Permutations)",
+            "math_daily": {
+                "Mon": "Counting: Permutations intro",
+                "Tue": "Counting: Combinations intro",
+                "Wed": "Binomial Probability",
+                "Thu": "Geometric Probability",
+                "Fri": "Review Combinatorics",
+                "Sat": "Unit Test Day: Unit 8 Stats"
+            },
+            "security": "Sec Engineer: SAST & DAST",
+            "python": "ML with Python: Training/Testing",
+            "japanese_topics": [
+                "Formal Phone",
+                "Giving Advice",
+                "~Te shimau",
+                "Keigo Audit",
+                "~Sou desu"
+            ]
+        },
+        {
+            "week": 25,
+            "math_topic": "Stats & Prob (Unit 9: Random Variables)",
+            "math_daily": {
+                "Mon": "Discrete Random Variables: Probability distributions",
+                "Tue": "Random Variables: Expected Value",
+                "Wed": "Random Variables: Variance and Standard Deviation",
+                "Thu": "Continuous Random Variables",
+                "Fri": "Review Random Variables",
+                "Sat": "Unit Test Day: Unit 9 Stats"
+            },
+            "security": "Sec Engineer: Weaponizing Vulns",
+            "python": "ML with Python: Linear Regression",
+            "japanese_topics": [
+                "~Rashii",
+                "~Deshou",
+                "~Tame ni",
+                "~Yasui",
+                "Podcasts"
+            ]
+        },
+        {
+            "week": 26,
+            "math_topic": "Stats & Prob (Unit 10: Sampling Distributions)",
+            "math_daily": {
+                "Mon": "Sampling Proportions: Mean and Std Dev",
+                "Tue": "Sampling Means: Central Limit Theorem (CLT)",
+                "Wed": "Sampling Distribution conditions",
+                "Thu": "Applications of CLT",
+                "Fri": "Review Sampling Distributions",
+                "Sat": "Unit Test Day: Unit 10 Stats"
+            },
+            "security": "Sec Engineer: Intro to DevSecOps",
+            "python": "ML with Python: Project 1",
+            "japanese_topics": [
+                "Continuity Audit",
+                "News Reading",
+                "Journaling",
+                "Lang Exchange",
+                "Slang"
+            ]
+        },
+        {
+            "week": 27,
+            "math_topic": "Stats & Prob (Unit 11: Confidence Intervals)",
+            "math_daily": {
+                "Mon": "Estimation: Point estimates and Margins of Error",
+                "Tue": "Z-intervals for proportions",
+                "Wed": "T-intervals for means",
+                "Thu": "Calculating Sample Size",
+                "Fri": "Review Confidence Intervals",
+                "Sat": "Unit Test Day: Unit 11 Stats"
+            },
+            "security": "Sec Engineer: Mother's Secret",
+            "python": "ML with Python: Classification",
+            "japanese_topics": [
+                "Anime No Subs",
+                "Shadowing",
+                "Derivative Quiz",
+                "N4 Grammar Rev",
+                "Kanji Audit"
+            ]
+        },
+        {
+            "week": 28,
+            "math_topic": "Stats & Prob (Unit 12: Significance Tests)",
+            "math_daily": {
+                "Mon": "Hypothesis Testing: Null and Alternative",
+                "Tue": "P-values and Significance Levels",
+                "Wed": "One-sample Z-test for proportions",
+                "Thu": "One-sample T-test for means",
+                "Fri": "Review Hypothesis testing",
+                "Sat": "Unit Test Day: Unit 12 Stats"
+            },
+            "security": "Sec Engineer: Traverse",
+            "python": "ML with Python: Clustering",
+            "japanese_topics": [
+                "Immersion Day",
+                "Monologue",
+                "N3 Planning",
+                "Anki Goals",
+                "Passive Voice (Rareru)"
+            ]
+        },
+        {
+            "week": 29,
+            "math_topic": "Stats & Prob (Unit 13: Two-sample Inference)",
+            "math_daily": {
+                "Mon": "Inference: Difference of two proportions",
+                "Tue": "Inference: Difference of two means",
+                "Wed": "Two-sample T-tests",
+                "Thu": "Inference for paired data",
+                "Fri": "Review Two-sample inference",
+                "Sat": "Unit Test Day: Unit 13 Stats"
+            },
+            "security": "Sec Engineer: Intro to IR & IM",
+            "python": "ML with Python: Neural Networks",
+            "japanese_topics": [
+                "Passive Sentences",
+                "Causative (Make/Let)",
+                "Causative Practice",
+                "Keigo: Intro",
+                "Keigo: Sonkeigo"
+            ]
+        },
+        {
+            "week": 30,
+            "math_topic": "Stats & Prob (Unit 14: Inference for Cat. Data)",
+            "math_daily": {
+                "Mon": "Chi-Square: Goodness of fit",
+                "Tue": "Chi-Square: Homogeneity and Independence",
+                "Wed": "Calculating Chi-Square stats",
+                "Thu": "Conditions for Chi-Square",
+                "Fri": "Review Categorical Inference",
+                "Sat": "Unit Test Day: Unit 14 Stats"
+            },
+            "security": "Sec Engineer: Logging",
+            "python": "ML with Python: Activation Functions",
+            "japanese_topics": [
+                "Keigo Audit",
+                "Keigo: Kenjougo",
+                "~Te oku (Prep)",
+                "~Te shimau (Regret)",
+                "~Te miru (Try)"
+            ]
+        },
+        {
+            "week": 31,
+            "math_topic": "Stats & Prob (Unit 15: Advanced Regression)",
+            "math_daily": {
+                "Mon": "Inference for Regression: Slope parameters",
+                "Tue": "T-test for slope",
+                "Wed": "Confidence intervals for slope",
+                "Thu": "ANOVA: Testing multiple means",
+                "Fri": "Review Advanced Regression",
+                "Sat": "Unit Test Day: Unit 15 Stats"
+            },
+            "security": "Sec Engineer: First Responder",
+            "python": "ML with Python: Optimizers",
+            "japanese_topics": [
+                "~Te kuru/iku",
+                "Adverbial ~Ku/Ni",
+                "Particle Audit",
+                "~Hazu (Expect)",
+                "~Kamoshirenai"
+            ]
+        },
+        {
+            "week": 32,
+            "math_topic": "Stats & Prob (Unit 16: ANOVA + Course Challenge)",
+            "math_daily": {
+                "Mon": "ANOVA: Conditions and Calculations",
+                "Tue": "ANOVA: Post-hoc tests",
+                "Wed": "Stats Course Challenge (Attempt 1)",
+                "Thu": "Review weak areas",
+                "Fri": "Final Prep: Stats Course challenge",
+                "Sat": "Mastery Day: Stats & Prob Course Challenge 100%"
+            },
+            "security": "Sec Engineer: Crisis Management",
+            "python": "ML with Python: Creating Models",
+            "japanese_topics": [
+                "~Tame ni (Purpose)",
+                "~Youni (Order to)",
+                "~Tsumori (Intent)",
+                "Potential Rev",
+                "Purpose Grammar"
+            ]
+        },
+        {
+            "week": 33,
+            "math_topic": "Calculus AB (Unit 1: Limits & Continuity)",
+            "math_daily": {
+                "Mon": "Limits: Defining limits and Limit notation",
+                "Tue": "Limits: Estimating from graphs and tables",
+                "Wed": "Limits: Algebraic properties and Squeeze Theorem",
+                "Thu": "Continuity: Definition and Types of Discontinuity",
+                "Fri": "Limits: Infinite limits and Intermediate Value Theorem",
+                "Sat": "Unit Test Day: Unit 1 Calculus"
+            },
+            "security": "Sec Engineer: OWASP Top 10",
+            "python": "ML with Python: CNNs",
+            "japanese_topics": [
+                "Nouns (Koto/No)",
+                "~N desu (Explain)",
+                "~To omou (Think)",
+                "~To iu (Quote)",
+                "Relative Clauses"
+            ]
+        },
+        {
+            "week": 34,
+            "math_topic": "Calculus AB (Unit 2: Differentiation Intro)",
+            "math_daily": {
+                "Mon": "Derivatives: Definition and Instantaneous Rate of Change",
+                "Tue": "Derivatives: Power Rule and Differentiability",
+                "Wed": "Derivatives: Sum, Difference, and Constant multiple rules",
+                "Thu": "Derivatives: Product and Quotient rules",
+                "Fri": "Derivatives: Trig and Exponential basic derivatives",
+                "Sat": "Unit Test Day: Unit 2 Calculus"
+            },
+            "security": "SOC Level 1: Cyber Threat Intel",
+            "python": "ML with Python: Conv Layers",
+            "japanese_topics": [
+                "Complex Sent",
+                "Sentence Mod",
+                "Transitive Verbs",
+                "Intransitive Verbs",
+                "Trans/Intrans Pair"
+            ]
+        },
+        {
+            "week": 35,
+            "math_topic": "Calculus AB (Unit 3: Composite/Chain Rule)",
+            "math_daily": {
+                "Mon": "Chain Rule: Composite functions",
+                "Tue": "Chain Rule: Nested functions",
+                "Wed": "Implicit Differentiation",
+                "Thu": "Inverse Functions: Derivatives",
+                "Fri": "Higher-order Derivatives",
+                "Sat": "Unit Test Day: Unit 3 Calculus"
+            },
+            "security": "SOC Level 1: Network Theory",
+            "python": "ML with Python: NLP with RNNs",
+            "japanese_topics": [
+                "Appearance (~Sou)",
+                "Hearsay (~Sou)",
+                "Likeness (~You)",
+                "Monthly Review",
+                "Comparison"
+            ]
+        },
+        {
+            "week": 36,
+            "math_topic": "Calculus AB (Unit 4: Contextual Apps of Diff)",
+            "math_daily": {
+                "Mon": "Rates of Change: Motion and Biology",
+                "Tue": "Related Rates",
+                "Wed": "Linearization and Differentials",
+                "Thu": "L'H\u00f4pital's Rule",
+                "Fri": "Review Contextual Applications",
+                "Sat": "Unit Test Day: Unit 4 Calculus"
+            },
+            "security": "SOC Level 1: OpenSSL",
+            "python": "ML with Python: LSTM",
+            "japanese_topics": [
+                "Superlatives",
+                "~Tara (If)",
+                "~Ba (If)",
+                "Volitional Form",
+                "Let's... (Volitional)"
+            ]
+        },
+        {
+            "week": 37,
+            "math_topic": "Calculus AB (Unit 5: Analytical Apps of Diff)",
+            "math_daily": {
+                "Mon": "The Mean Value Theorem (MVT)",
+                "Tue": "Extrema: Local and Global (EVT)",
+                "Wed": "Increasing/Decreasing Functions: First Derivative Test",
+                "Thu": "Concavity: Second Derivative Test",
+                "Fri": "Curve Sketching and Optimization",
+                "Sat": "Unit Test Day: Unit 5 Calculus"
+            },
+            "security": "SOC Level 1: Digital Forensics",
+            "python": "ML with Python: Reinforce Learning",
+            "japanese_topics": [
+                "Conditional Audit",
+                "~Ba yokatta",
+                "~Noni (Despite)",
+                "~Shika (Only)",
+                "~Dake (Just)"
+            ]
+        },
+        {
+            "week": 38,
+            "math_topic": "Calculus AB (Unit 6: Integration)",
+            "math_daily": {
+                "Mon": "Accumulation: Riemann Sums",
+                "Tue": "Definite Integrals and Properties",
+                "Wed": "The Fundamental Theorem of Calculus",
+                "Thu": "Indefinite Integrals: Power Rule",
+                "Fri": "Integration by Substitution (u-sub)",
+                "Sat": "Unit Test Day: Unit 6 Calculus"
+            },
+            "security": "SOC Level 1: Phishing",
+            "python": "ML with Python: Q-Learning",
+            "japanese_topics": [
+                "~Bakari (Just)",
+                "~Nagara (While)",
+                "Simultaneous",
+                "~Mono da",
+                "~Wake da"
+            ]
+        },
+        {
+            "week": 39,
+            "math_topic": "Calculus AB (Unit 7: Differential Equations)",
+            "math_daily": {
+                "Mon": "Modeling with Diff Eqs",
+                "Tue": "Slope Fields",
+                "Wed": "Separation of Variables",
+                "Thu": "Exponential Growth and Decay models",
+                "Fri": "Review Differential Equations",
+                "Sat": "Unit Test Day: Unit 7 Calculus"
+            },
+            "security": "SOC Level 1: Endpoint Analysis",
+            "python": "ML with Python: Projects 2 & 3",
+            "japanese_topics": [
+                "~Temo (Even if)",
+                "~To shitemo",
+                "~Uchi ni",
+                "~Kagiri",
+                "N3 Monologue"
+            ]
+        },
+        {
+            "week": 40,
+            "math_topic": "Calculus AB (Unit 8: Applications of Integration)",
+            "math_daily": {
+                "Mon": "Area between curves",
+                "Tue": "Volume: Cross-sections",
+                "Wed": "Volume: Disc and Washer methods",
+                "Thu": "Average Value of a Function",
+                "Fri": "Review Applications of Integration",
+                "Sat": "Unit Test Day: Unit 8 Calculus"
+            },
+            "security": "SOC Level 2: Log Analysis",
+            "python": "ML with Python: Project 4",
+            "japanese_topics": [
+                "N3 Kanji",
+                "News Reading",
+                "Journaling",
+                "HelloTalk",
+                "Potential Rev"
+            ]
+        },
+        {
+            "week": 41,
+            "math_topic": "Calculus AB (Unit 9: FRQ Practice)",
+            "math_daily": {
+                "Mon": "FRQ Focus: Particle Motion",
+                "Tue": "FRQ Focus: Accumulation/Rate-in Rate-out",
+                "Wed": "FRQ Focus: Area/Volume",
+                "Thu": "FRQ Focus: Table-based questions",
+                "Fri": "Calculus AB Course Challenge (Attempt 1)",
+                "Sat": "Mastery Day: Calculus AB Course Challenge 100%"
+            },
+            "security": "SOC Level 2: SIEM",
+            "python": "ML with Python: Project 5",
+            "japanese_topics": [
+                "Passive Rev",
+                "Output Check",
+                "Causative Rev",
+                "Keigo Rev",
+                "Business Phrases"
+            ]
+        },
+        {
+            "week": 42,
+            "math_topic": "Linear Algebra (Unit 1: Vectors & Spaces)",
+            "math_daily": {
+                "Mon": "Vectors: Addition and Scaling",
+                "Tue": "Linear Combinations and Span",
+                "Wed": "Linear Independence",
+                "Thu": "Subspaces and Bases",
+                "Fri": "Review Vector Spaces",
+                "Sat": "Unit Test Day: Unit 1 Linear Algebra"
+            },
+            "security": "SOC Level 2: Advanced IR",
+            "python": "ML with Python: Capstone",
+            "japanese_topics": [
+                "Phone Call",
+                "Advice Rev",
+                "Regret Rev",
+                "Keigo Audit",
+                "Hearsay (~Sou)"
+            ]
+        },
+        {
+            "week": 43,
+            "math_topic": "Linear Algebra (Unit 2: Matrix Transformations)",
+            "math_daily": {
+                "Mon": "Matrix Multiplication and Transformations",
+                "Tue": "Inverse Matrices",
+                "Wed": "Determinants",
+                "Thu": "Transformations in 2D and 3D",
+                "Fri": "Review Matrix Transformations",
+                "Sat": "Unit Test Day: Unit 2 Linear Algebra"
+            },
+            "security": "Cyber AI: Intro to AI in Cyber",
+            "python": "Phishing Link Classifier",
+            "japanese_topics": [
+                "Hearsay (~Rashii)",
+                "Guess (~Deshou)",
+                "Purpose",
+                "Difficulty",
+                "Podcast"
+            ]
+        },
+        {
+            "week": 44,
+            "math_topic": "Linear Algebra (Unit 3: Alternate Bases)",
+            "math_daily": {
+                "Mon": "Coordinate Systems and Alternate Bases",
+                "Tue": "Orthogonal Projections",
+                "Wed": "Gram-Schmidt Process",
+                "Thu": "Least Squares",
+                "Fri": "Review Bases and Projections",
+                "Sat": "Unit Test Day: Unit 3 Linear Algebra"
+            },
+            "security": "Cyber AI: Adversarial AI",
+            "python": "Network Anomaly Detector",
+            "japanese_topics": [
+                "Podcast Sum",
+                "News Reading",
+                "N2 Kanji",
+                "Immersion",
+                "Speaking"
+            ]
+        },
+        {
+            "week": 45,
+            "math_topic": "Linear Algebra (Unit 4: Eigen-everything)",
+            "math_daily": {
+                "Mon": "Eigenvalues Introduction",
+                "Tue": "Finding Eigenvalues: Characteristic Equation",
+                "Wed": "Eigenvectors and Eigenspaces",
+                "Thu": "Matrix Diagonalization",
+                "Fri": "Review Eigenvalues/vectors",
+                "Sat": "Mastery Day: Unit 4 Linear Algebra"
+            },
+            "security": "Cyber AI: Prompt Injection",
+            "python": "Malware PE Header Classifier",
+            "japanese_topics": [
+                "Monologue",
+                "Future Plan",
+                "Mastery Audit",
+                "Nominalizers",
+                "Opinions"
+            ]
+        },
+        {
+            "week": 46,
+            "math_topic": "Linear Algebra Course Challenge",
+            "math_daily": {
+                "Mon": "Review: Vector Ops and Span",
+                "Tue": "Review: Matrix Trans and Inverses",
+                "Wed": "Review: Projections and Bases",
+                "Thu": "Review: Eigen-everything",
+                "Fri": "Linear Algebra Course Challenge (Attempt 1)",
+                "Sat": "Mastery Day: Linear Algebra Course Challenge 100%"
+            },
+            "security": "Cyber AI: Securing ML Models",
+            "python": "DGA Domain Generator",
+            "japanese_topics": [
+                "Quotes",
+                "Clauses",
+                "Complex Sent",
+                "Monologue",
+                "Grammar Final"
+            ]
+        },
+        {
+            "week": 47,
+            "math_topic": "Multivariable: Partial Deriv.",
+            "math_daily": {
+                "Mon": "Functions of several variables",
+                "Tue": "Partial Derivatives Intro",
+                "Wed": "Higher-order partial derivatives",
+                "Thu": "Tangent planes and Linearization",
+                "Fri": "The Chain Rule for several variables",
+                "Sat": "Mastery Day: Partial Derivatives"
+            },
+            "security": "Advent of Cyber (Selected)",
+            "python": "Adversarial Attack Lab",
+            "japanese_topics": [
+                "Comparison",
+                "Superlative",
+                "Conditional",
+                "Volitional",
+                "Transitive"
+            ]
+        },
+        {
+            "week": 48,
+            "math_topic": "Multivariable: Gradient",
+            "math_daily": {
+                "Mon": "The Gradient Vector",
+                "Tue": "Directional Derivatives",
+                "Wed": "Gradient descent concept for ML",
+                "Thu": "Normal vectors to surfaces",
+                "Fri": "Review Gradient applications",
+                "Sat": "Mastery Day: Gradient"
+            },
+            "security": "Advent of Cyber (Selected)",
+            "python": "LLM Security Tester",
+            "japanese_topics": [
+                "News Audit",
+                "N3 Kanji",
+                "Particle SHI",
+                "NAGARA",
+                "NODE/KARA"
+            ]
+        },
+        {
+            "week": 49,
+            "math_topic": "Multivariable: Optimization",
+            "math_daily": {
+                "Mon": "Critical points: Local Extrema",
+                "Tue": "Global Extrema on bounded sets",
+                "Wed": "Lagrange Multipliers intro",
+                "Thu": "Constrained Optimization for ML",
+                "Fri": "Review Optimization",
+                "Sat": "Mastery Day: Multivariable Optimization"
+            },
+            "security": "Certification Practice",
+            "python": "Anomaly Detection Dashboard",
+            "japanese_topics": [
+                "~Kana",
+                "Passive",
+                "Causative",
+                "Output",
+                "Keigo Rev"
+            ]
+        },
+        {
+            "week": 16,
+            "math_topic": "Algebra 2 Course Challenge",
+            "math_daily": {
+                "Mon": "Final Review: Logs and Exponents",
+                "Tue": "Final Review: Polynomial Graphs",
+                "Wed": "Final Review: Trig Functions",
+                "Thu": "Final Review: Rational Expressions",
+                "Fri": "Final Prep: Course Challenge Drill",
+                "Sat": "Mastery Day: Algebra 2 Course Challenge 100%"
+            },
+            "security": "Sec Engineer: Active Directory",
+            "python": "Data Analysis: Cleaning Data",
+            "japanese_topics": [
+                "Kenjougo",
+                "Business",
+                "Phone",
+                "Advice",
+                "Regret"
+            ]
+        },
+        {
+            "week": 50,
+            "math_topic": "Retake: Stats Challenge",
+            "math_daily": {
+                "Mon": "Review Unit 7-10 Prob/Variables",
+                "Tue": "Review Unit 11-14 Inference",
+                "Wed": "Review Unit 15-16 Regression/ANOVA",
+                "Thu": "Stats Course Challenge Retake (Attempt 1)",
+                "Fri": "Refine weak areas",
+                "Sat": "Mastery Day: 100% Stats challenge"
+            },
+            "security": "Certification Practice",
+            "python": "Malware Visualization Tool",
+            "japanese_topics": [
+                "Phone",
+                "~Sou desu",
+                "~Rashii",
+                "~Deshou",
+                "~Tame ni"
+            ]
+        },
+        {
+            "week": 51,
+            "math_topic": "Retake: Linear Alg Challenge",
+            "math_daily": {
+                "Mon": "Review Units 1-2 Spaces/Trans",
+                "Tue": "Review Unit 3 Bases/Projections",
+                "Wed": "Review Unit 4 Eigen-everything",
+                "Thu": "Linear Algebra Course Challenge Retake (Attempt 1)",
+                "Fri": "Refine weak areas",
+                "Sat": "Mastery Day: 100% Linear Algebra challenge"
+            },
+            "security": "Final CTF Challenge",
+            "python": "IDS using Graph Neural Nets",
+            "japanese_topics": [
+                "~Yasui",
+                "Podcast",
+                "Summary",
+                "News"
+            ]
+        },
+        {
+            "week": 52,
+            "math_topic": "Final Portfolio Review",
+            "math_daily": {
+                "Mon": "Audit all 'Golden Rule' documentation",
+                "Tue": "Polish GitHub READMEs for PhD readiness",
+                "Wed": "Verify all Math Proofs in notebooks",
+                "Thu": "Prepare CCSU Graduate Application documents",
+                "Fri": "Final sanity check on portfolio",
+                "Sat": "SUBMIT CCSU APPLICATION"
+            },
+            "security": "Final CTF Challenge",
+            "python": "Submit CCSU Application",
+            "japanese_topics": []
+        }
+    ]
+}
